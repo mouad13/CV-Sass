@@ -1,0 +1,180 @@
+h1 {
+  font-family: 'Courgette', cursive;
+  font-size: 2em;
+  color: #21618C;
+  text-align: center;
+  margin: auto;
+  margin-left: 1em;
+}
+
+h3 {
+  font-family: 'Courgette', cursive;
+  font-size: 1.4em;
+  color: #2980B9;
+}
+
+h2 {
+  font-family: 'Alice', serif;
+  color: #21618C;
+  font-size: 2em;
+  text-transform: uppercase;
+  /*border-bottom: solid ; */
+  text-align: center;}
+
+.page {
+  width: 55em;
+  margin: auto;
+  margin-top: 2em;
+  font-size: 1em;
+  /*font-family: sans-serif*/; }
+
+
+.sectionInfo {
+  margin-bottom: 6em;
+  display: flex;
+  text-align: justify;
+  justify-content: space-between;
+}
+
+.sec-droiteInfo {
+  font-size: 1.3em;
+  /*float: right;*/
+  font-family: 'Handlee', cursive;
+  text-align: center;
+  /*padding-left: 8em;*/ }
+
+
+
+.sec-gaucheInfo {
+  height: 12em; }
+
+/*.photo {
+  float: left; }
+*/
+
+/*.sectioninfo {
+  margin-bottom: 4em;
+  display:inline-flex;
+  text-align: justify;}
+.sec-gaucheinfo {
+  float: left;
+  font-weight: bold;
+  margin-left: 6em; 
+  font-size: 1em; }
+.sec-droiteinfo {
+  margin-left: 9em; }
+*/
+
+
+.sectionFormation {
+  margin-bottom: 2em;
+  display:inline-flex;
+  text-align: justify;}
+
+.sec-gaucheFormation {
+  font-family: 'Courgette', cursive;
+  float: left;
+  font-weight: bold;
+  margin-left: 5em; 
+  font-size: 1.3em; }
+
+.sec-droiteFormation {
+  font-family: 'Alice', serif;
+  font-size: 1.3em;
+  margin-left: 7em; }
+
+
+
+.sectionExperiences {
+  margin-bottom: 2em;
+  display:inline-flex;
+  text-align: justify;}
+
+.sec-gaucheExperiences {
+  font-family: 'Courgette', cursive;
+  float: left;
+  font-weight: bold;
+  margin-left: 5em; 
+  font-size: 1.3em; }
+
+.sec-droiteExperiences {
+  font-family: 'Alice', serif;
+  font-size: 1.3em;
+  margin-left: 5em; }
+
+
+
+.sectionCompetences {
+  margin-bottom: 2em;
+  display:inline-flex;
+  text-align: justify;}
+
+.sec-gaucheCompetences {
+  font-family: 'Alice', serif;
+  float: left;
+  /*font-weight: bold;*/
+  font-size: 1.4em;
+  text-align: center;
+  /*margin-left: 1.4em;*/ }
+
+.sec-droiteCompetences {
+  font-family: 'Alice', serif;
+  margin-left: 9em;
+  font-size: 1.4em;
+  text-align: center;
+  margin-left: 1.5em; }
+  
+
+
+.sectionTechnologie {
+  margin-bottom: 2em;
+  display:inline-flex;
+  text-align: justify;}
+
+.sec-gaucheTechnologie {
+  float: left;
+  font-weight: bold;
+  font-size: 1em; }
+
+.sec-droiteTechnologie {
+  margin-left: 9em; 
+  }
+
+
+
+.sectionLoisirs {
+  margin-bottom: 2em;
+  display:inline-flex;
+  text-align: justify;}
+
+.sec-gaucheLoisirs {
+  font-family: 'Alice', serif;
+  float: left;
+  /*font-weight: bold;*/
+  margin-left: 6em; 
+  font-size: 1.2em; }
+
+.sec-droiteLoisirs {
+  font-family: 'Alice', serif;
+  font-size: 1.2em;
+  margin-left: 25em; }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.koko {
+  display: inline; }
+*/
+/*# sourceMappingURL=style.css.map */
